@@ -20,10 +20,12 @@ The script reads an exported WhatsApp chat and then extracts the data. You may n
 ----------------------
 ![Screenshot 2023-07-01 121651](https://github.com/A-Bitz/WatsappAnalyzer/assets/118044372/a8362a88-d018-4ece-9d21-2abbc239579f)
 ![Screenshot 2023-07-01 121735](https://github.com/A-Bitz/WatsappAnalyzer/assets/118044372/05a05e88-bc82-413b-8be1-c8ebbfde1b9c)
+![Screenshot 2023-07-01 121843](https://github.com/A-Bitz/WatsappAnalyzer/assets/118044372/327bde7a-4eb4-4618-8444-d864db6e640b)
+
 
 ### Requirements
 ----------------------
-- Python 3.6+
+- Python 3.6 and above
 ```python
 pip install -r requirements.txt
 ```
