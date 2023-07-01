@@ -1,0 +1,1371 @@
+01/01/23, 10:59 am - Messages to yourself are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+01/01/23, 10:59 am - Abith K Sunil (Chackochi): Heelo
+01/01/23, 11:01 am - Abith K Sunil (Chackochi): <Media omitted>
+01/01/23, 3:32 pm - Abith K Sunil (Chackochi): https://youtube.com/shorts/nZaQL0NNkmE?feature=share
+02/01/23, 9:13 pm - Abith K Sunil (Chackochi): Menu costs: It may be costly for firms to change their prices, especially if they have to physically reprint menus, price lists, or signage.
+
+Contractual agreements: Prices may be fixed by contracts that have been signed in advance, such as rent or wages.
+
+Psychological factors: Consumers may have a "reference price" in mind and be resistant to paying more or less than that price, even if it would be economically rational to do so.
+
+Government intervention: Governments may set price controls, either through direct regulation or through subsidies or taxes that affect the prices of certain goods.
+
+Lack of competition: In markets with few competitors, firms may have less incentive to adjust their prices in response to changes in demand or supply.
+04/01/23, 6:53 pm - Abith K Sunil (Chackochi): IBM is looking for the best Entry Level talent in the market. 
+  
+We have an exciting opportunity for you to refer talented individuals to join our IBM team. We are looking for talent with the same pedigree as you!  
+  
+As experienced professionals , your networks and relationships enable you to quickly recognize unique talent, rising stars and future leaders. Connect with your alma mater and refer graduates who are ready to change the world and keen to join our amazing global team of inspiring IBMers !   
+   
+As you consider candidates for referral, please make sure to tap into all talent pools. We are committed to a culture of Diversity and Inclusion at IBM. Each of us has an active role in building an environment with a diverse set of skills, expertise, experience, and perspectives.  
+  
+If you know someone (your friend/ junior or relative) who is looking for a great place to start a career as an Associate Systems Engineer and is about to graduate (2023 batch), then ask them to directly  complete the below mentioned registration process today to join our upcoming IBM CodeKnack in Jan 23, you needn’t refer on tool. 
+  
+Eligibility Criteria: 
+Graduation Year: 2023 
+B.E / BTech / MCA / M.E. / MTech / MSc, with 60% / 6.0 CGPA and no active backlogs 
+Branch: CS / IT / Robotics / ISE / EE / ECE / EIE / AEIE / EEE / ETE / Maths & Computing 
+  
+ 
+Candidate Registration in 3 simple steps: 
+Step 1. Please ask the candidate to apply to the below Job Opening on IBM career portal.   
+Link: https://ibm.co/3FDQ3SL 
+Step 2. The candidate must note the reference number which will be generated in an email from IBMRecruitment_noreply 
+Step 3. Ask the candidate to go to the link below and complete the registration form. 
+Link: https://ibm.co/3WsRNoJ 
+  
+*It’s a Mandate for the students to follow the above three steps to ensure their application is submitted for the process. 
+  
+Last day to register 👉 13th Jan 2023!!
+04/01/23, 7:17 pm - Abith K Sunil (Chackochi): Unit 5:
+What is Data visualization,features of datavisualization,ethics and recent trends,5 c’s
+
+Unit 4:Deep learning(all important)
+Application,rnn(draw architecture,layers),cnn and regularization,problem on cnn (weight and bias given),optimization
+
+Unit 3:
+Supervised learning algorithm,unsupervised learning algorithm,difference b/w Supervised learning algorithm and unsupervised learning algorithm,validating,machine learning
+
+Unit  2:
+Dist framework
+
+Unit 1:
+ Datascience process , exploration,data preparation
+
+Unit 1 an d 2 1q for sure but 3,4,5 more than 1 q
+               
+               Sec A:
+Answer any 4 q from 7q(4*10=40)
+ Sec B :
+Answer 3 q (3*20=60)
+05/01/23, 12:50 am - Abith K Sunil (Chackochi): <Media omitted>
+05/01/23, 6:02 pm - Abith K Sunil (Chackochi): Convolutional neural networks (CNNs) are a type of neural network that are often used for image classification and other types of tasks involving structured data. In a CNN, the weights and biases are parameters that are learned during the training process in order to minimize the loss function. Here are a few common problems that can arise with the weights and biases in a CNN:
+
+Overfitting: If the weights and biases of a CNN are too complex, the model may overfit to the training data, meaning it will perform well on the training set but poorly on unseen data. This can be addressed by using regularization techniques such as dropout or weight decay.
+
+Vanishing gradients: If the weights and biases in the CNN are initialized improperly, the gradients of the loss function with respect to the weights and biases may become very small, making it difficult for the model to learn. This can be mitigated by using proper weight initialization techniques such as the Xavier initialization.
+
+Unbalanced classes: If the training data has imbalanced class distributions, the weights and biases of the CNN may be biased towards the more prevalent classes, leading to poor performance on the less prevalent classes. This can be addressed by using techniques such as oversampling or class weighting.
+07/01/23, 10:23 pm - Abith K Sunil (Chackochi): <Media omitted>
+07/01/23, 11:44 pm - Abith K Sunil (Chackochi): https://youtube.com/shorts/6-eLxxXL0cQ?feature=share
+09/01/23, 7:09 am - Abith K Sunil (Chackochi): <Media omitted>
+09/01/23, 7:10 am - Abith K Sunil (Chackochi): <Media omitted>
+09/01/23, 7:10 am - Abith K Sunil (Chackochi): <Media omitted>
+09/01/23, 7:10 am - Abith K Sunil (Chackochi): <Media omitted>
+09/01/23, 7:12 am - Abith K Sunil (Chackochi): <Media omitted>
+09/01/23, 7:15 am - Abith K Sunil (Chackochi): <Media omitted>
+09/01/23, 7:17 am - Abith K Sunil (Chackochi): <Media omitted>
+09/01/23, 7:49 am - Abith K Sunil (Chackochi): <Media omitted>
+11/01/23, 1:03 pm - Abith K Sunil (Chackochi): sumofalldata <- nrow(population_2010_2019_population_2010_2019) + nrow(population_2020_2029_population_2020_2029)+nrow(population_2030_2040)
+sumofalldata
+
+population_2010_2040 <-rbind(population_2010_2019_population_2010_2019,population_2020_2029_population_2020_2029,population_2030_2040)
+nrow(population_2010_2040)
+
+colnames(population_2030_2040)
+
+# remove the coloum from the data frame
+
+population_2010_2040<-population_2030_2040[,-c(5,6,9)]
+
+colnames(population_2010_2040)
+
+str(population_2010_2040)
+
+# remane the coloum
+
+population_2010_2040 <- population_2010_2040 %>% 
+rename("Country-id"="LocID", "Country"= "Location","Year" = "Time",
+         "Age-Grop" = "AgeGrp")
+View(population_2010_2040)
+
+unique(population_2010_2040$`Age-Grop`)
+
+#REplace the Value
+library(stringr)
+
+population_2010_2040$`Age-Grop`<- str_replace(population_2010_2040$`Age-Grop`,"05.Sep","5-9")
+population_2010_2040$`Age-Grop`<- str_replace(population_2010_2040$`Age-Grop`,"04.jan","10-12")
+
+unique(population_2010_2040$`Age-Grop`)
+12/01/23, 5:51 pm - Abith K Sunil (Chackochi): Yes Father, as EA students have exam till 12pm and DS students have their workshop till 4 pm , so as per our discussion ,  we decided to have meeting by *5pm tomorrow* ✨
+16/01/23, 8:50 pm - Abith K Sunil (Chackochi): <Media omitted>
+18/01/23, 1:04 am - Abith K Sunil (Chackochi): <Media omitted>
+19/01/23, 1:46 pm - Abith K Sunil (Chackochi): <Media omitted>
+20/01/23, 7:01 pm - Abith K Sunil (Chackochi): https://www.wired.com/story/sales-calls-virtual-ai-listening/
+20/01/23, 11:27 pm - Abith K Sunil (Chackochi): 1.Gender estimation based on supervised HOG, Action Units and unsupervised CNN feature extraction
+20/01/23, 11:28 pm - Abith K Sunil (Chackochi): https://ieeexplore.ieee.org/document/7956439
+20/01/23, 11:29 pm - Abith K Sunil (Chackochi): 2.Performance Evaluation and Feature Vector Extraction of Review Data Sets Using Evolutionary Based SVM Techniques . Link:https://ieeexplore.ieee.org/document/8493771
+20/01/23, 11:30 pm - Abith K Sunil (Chackochi): 3.Research on Extraction Method of Time-Frequency Feature of Human Motion. Link:https://ieeexplore.ieee.org/document/8833050
+20/01/23, 11:31 pm - Abith K Sunil (Chackochi): 4.Real-time Monitoring and Comprehensive Analysis Framework for Rainwater and Soil Pollution based on Big Data Feature Extraction and IoT.Link:https://ieeexplore.ieee.org/document/9315906
+20/01/23, 11:32 pm - Abith K Sunil (Chackochi): 5.Region feature extraction based on improved regularization method in SAR image.Link:https://ieeexplore.ieee.org/document/4422858
+20/01/23, 11:33 pm - Abith K Sunil (Chackochi): 6.Proof of Two Kinds of Fingerprint Feature Extraction CNN. Link:https://ieeexplore.ieee.org/document/5376575
+20/01/23, 11:33 pm - Abith K Sunil (Chackochi): 7.A subspace weighting kernel method combining clustering-based grouping for feature extraction in hyperspectral imagery classification.Link:https://ieeexplore.ieee.org/document/5976021
+20/01/23, 11:34 pm - Abith K Sunil (Chackochi): 8.Sonar Features Extraction Algorithm for a Mobile Robot. Link:https://ieeexplore.ieee.org/document/5369394
+20/01/23, 11:35 pm - Abith K Sunil (Chackochi): 9.Feature Extraction of Ultrasonic Monitoring during Lithium-ion Battery Cycling.Link:https://ieeexplore.ieee.org/document/9960705
+20/01/23, 11:36 pm - Abith K Sunil (Chackochi): 10.Automatically Adjustable Multi-Scale Feature Extraction Framework for Hyperspectral Image Classification.Link:https://ieeexplore.ieee.org/document/9554502
+20/01/23, 11:39 pm - Abith K Sunil (Chackochi): Greetings everyone, I have compiled a list of relevant topics for you to consider
+20/01/23, 11:40 pm - Abith K Sunil (Chackochi): *Greetings everyone, I have compiled a list of relevant topics for you to consider:*
+
+1.Gender estimation based on supervised HOG, Action Units and unsupervised CNN feature extraction
+Link:https://ieeexplore.ieee.org/document/7956439
+2.Performance Evaluation and Feature Vector Extraction of Review Data Sets Using Evolutionary Based SVM Techniques . Link:https://ieeexplore.ieee.org/document/8493771
+3.Research on Extraction Method of Time-Frequency Feature of Human Motion. Link:https://ieeexplore.ieee.org/document/8833050
+4.Real-time Monitoring and Comprehensive Analysis Framework for Rainwater and Soil Pollution based on Big Data Feature Extraction and IoT.Link:https://ieeexplore.ieee.org/document/9315906
+5.Region feature extraction based on improved regularization method in SAR image.Link:https://ieeexplore.ieee.org/document/4422858
+6.Proof of Two Kinds of Fingerprint Feature Extraction CNN. Link:https://ieeexplore.ieee.org/document/5376575
+7.A subspace weighting kernel method combining clustering-based grouping for feature extraction in hyperspectral imagery classification.Link:https://ieeexplore.ieee.org/document/5976021
+8.Sonar Features Extraction Algorithm for a Mobile Robot. Link:https://ieeexplore.ieee.org/document/5369394
+9.Feature Extraction of Ultrasonic Monitoring during Lithium-ion Battery Cycling.Link:https://ieeexplore.ieee.org/document/9960705
+10.Automatically Adjustable Multi-Scale Feature Extraction Framework for Hyperspectral Image Classification.Link:https://ieeexplore.ieee.org/document/9554502
+21/01/23, 6:19 pm - Abith K Sunil (Chackochi): http://www.flowersofindia.net/catalog/slides/Indian%20Coral%20Tree.html
+22/01/23, 3:08 pm - Abith K Sunil (Chackochi): Op Jindal hariyana
+22/01/23, 3:08 pm - Abith K Sunil (Chackochi): Presidency uni
+22/01/23, 3:08 pm - Abith K Sunil (Chackochi): Cllg
+22/01/23, 3:08 pm - Abith K Sunil (Chackochi): NMIMS BANGLORE
+22/01/23, 3:08 pm - Abith K Sunil (Chackochi): Jain university
+24/01/23, 2:51 pm - Abith K Sunil (Chackochi): Krishnapriya 
+9486970395a
+2231240
+TEP 1ST YEAR
+28/01/23, 8:06 pm - Abith K Sunil (Chackochi): Jasti Matha  du benda
+28/01/23, 8:06 pm - Abith K Sunil (Chackochi): Sai spu de ne
+28/01/23, 11:33 pm - Abith K Sunil (Chackochi): Dear Controller of Examination,
+
+We, the student council members, would like to express our sincere gratitude for inviting us to conduct the fest in Bangalore. We appreciate the effort and care that you took to ensure that our experience was comfortable and enjoyable.
+
+We are grateful for the opportunity to be a part of such a fantastic event and for the support provided by your team. Your guidance and leadership were instrumental in making the fest a success.
+
+Once again, thank you for your generosity and for making this experience one that we will never forget.
+
+Sincerely,
+[Your Name]
+Student Council Member.
+
+
+
+
+
+
+ChatGPT Jan 9 Version. Free Research Preview. Our goal is to make AI systems more natural and safe to interact with. Your feedback will help us improve.
+28/01/23, 11:45 pm - Abith K Sunil (Chackochi): Dear Sir,
+
+We, the student council members, would like to express our sincere gratitude for inviting us to conduct the DAKSH in Christ Bangalore. We appreciate the effort and care that you took to ensure that our experience was comfortable and enjoyable.
+
+We are grateful for the opportunity to be a part of such a fantastic event and for the support provided by your team. Your guidance and leadership were instrumental in making the fest a success.
+
+Once again, thank you for your generosity and for making this experience one that we will never forget.
+
+Sincerely,
+
+Student Council Member.
+28/01/23, 11:54 pm - Abith K Sunil (Chackochi): Dear Sir,
+
+We, the student council members, would like to express our sincere gratitude for inviting us to conduct the DAKSH in Christ Bangalore. We appreciate the effort and care that you took to ensure that our experience was comfortable and enjoyable.
+
+In addition, the interaction between the student council members was enjoyable and led to a variety of learning opportunities. The hospitality provided was excellent and satisfied.
+
+We are grateful for the opportunity to be a part of such a fantastic event and for the support provided by your team. Your guidance and leadership were instrumental in making the fest a success.
+
+Once again, thank you for your generosity and for making this experience one that we will never forget.
+
+Sincerely,
+
+Student Council Member.
+28/01/23, 11:55 pm - Abith K Sunil (Chackochi): It provided us with a more effective means of learning about the campus and its committees.
+28/01/23, 11:56 pm - Abith K Sunil (Chackochi): Dear Sir,
+
+All of us, would like to express our sincere gratitude for inviting us to conduct the DAKSH in Christ Bangalore. We appreciate the effort and care that you took to ensure that our experience was comfortable and enjoyable.
+
+It provided us with a more effective means of learning about the campus and its committees.In addition, the interaction between the student council members was enjoyable and led to a variety of learning opportunities. The hospitality provided was excellent and satisfied.
+
+We are grateful for the opportunity to be a part of such a fantastic event and for the support provided by your team. Your guidance and leadership were instrumental in making the fest a success.
+
+Once again, thank you for your generosity and for making this experience one that we will never forget.
+
+Sincerely,
+
+Student Council Member.
+30/01/23, 2:33 pm - Abith K Sunil (Chackochi): I hope this email finds you well. My name is Abith.K.Sunil and I am a student of Christ University Lavasa. I am writing to request your sponsorship for a tech festival “Zavion” that our institution is planning to conduct.
+The tech festival will be a two-day event aimed at bringing together students, tech enthusiasts, and industry professionals to showcase their technical skills, exchange ideas and share their knowledge. The event will consist of various technical competitions, workshops, and keynote speeches from experts in the field.
+As a leading organization in the field of Data Science, your sponsorship would be a great asset to our festival and would provide a unique opportunity for students to connect with industry professionals and learn about the latest advancements in technology.
+In recognition of your sponsorship, we will include your logo on every promotional item, on invitation letters, on event brochures, on the university website on the events page, on social media platforms, and on the university channel on YouTube. An opportunity to interact with participants. Display brochures containing sponsors' logos on all Christ campuses. Sponsor ads will appear on electronic displays and the event venue four times a day for two days. Set up a stall to demonstrate sponsors' products and services. Speakers will be available during the finale during prize distribution.
+
+We believe that this event will provide a valuable platform for promoting your organization and establishing new connections within the tech community. I would be more than happy to discuss the details of the sponsorship further and answer any questions you may have.
+Thank you for considering this request. I look forward to your positive response.
+Best regards,
+Abith.K.Sunil
+Tech fest co-ordinator
+Christ University, Lavasa
+31/01/23, 9:54 am - Abith K Sunil (Chackochi): public class RightTrianglePattern   
+{   
+public static void main(String args[])   
+{   
+//i for rows and j for columns      
+//row denotes the number of rows you want to print  
+int i, j, row=6;   
+//outer loop for rows  
+for(i=0; i<row; i++)   
+{   
+//inner loop for columns  
+for(j=0; j<=i; j++)   
+{   
+//prints stars   
+System.out.print("* ");   
+}   
+//throws the cursor in a new line after printing each line  
+System.out.println();   
+}   
+}   
+}
+31/01/23, 10:12 am - Abith K Sunil (Chackochi): public class DownwardTrianglePattern  
+{  
+public static void main(String[] args)  
+{  
+int rows=7;      
+//inner loop  
+for (int i= rows-1; i>=0 ; i--)  
+{  
+//outer loop  
+for (int j=0; j<=i; j++)  
+{  
+//prints star and space  
+System.out.print("*" + " ");  
+}  
+//throws the cursor in the next line after printing each line  
+System.out.println();  
+}  
+}  
+}
+31/01/23, 2:51 pm - Abith K Sunil (Chackochi): <Media omitted>
+31/01/23, 11:49 pm - Abith K Sunil (Chackochi): <Media omitted>
+01/02/23, 10:58 am - Abith K Sunil (Chackochi): I hope this email finds you well. My name is Abith.K.Sunil and I am a student of Christ University Lavasa. I am writing to request your sponsorship for a tech festival “Zavion” that our institution is planning to conduct.
+The tech festival will be a two-day event aimed at bringing together students, tech enthusiasts, and industry professionals to showcase their technical skills, exchange ideas and share their knowledge. The event will consist of various technical competitions, workshops, and keynote speeches from experts in the field.
+As a leading organization in the field of Data Science, your sponsorship would be a great asset to our festival and would provide a unique opportunity for students to connect with industry professionals and learn about the latest advancements in technology.
+In recognition of your sponsorship, we will include your logo on every promotional item, on invitation letters, on event brochures, on the university website on the events page, on social media platforms, and on the university channel on YouTube. An opportunity to interact with participants. Display brochures containing sponsors' logos on all Christ campuses. Sponsor ads will appear on electronic displays and the event venue four times a day for two days. Set up a stall to demonstrate sponsors' products and services. Speakers will be available during the finale during prize distribution.
+
+We believe that this event will provide a valuable platform for promoting your organization and establishing new connections within the tech community. I would be more than happy to discuss the details of the sponsorship further and answer any questions you may have.
+Thank you for considering this request. I look forward to your positive response.
+Best regards,
+Abith.K.Sunil
+Tech fest co-ordinator
+Christ University, Lavasa
+02/02/23, 2:04 pm - Abith K Sunil (Chackochi): Nanu ninege enu hel beku
+02/02/23, 2:07 pm - Abith K Sunil (Chackochi): Mumbe nodu
+04/02/23, 2:33 pm - Abith K Sunil (Chackochi): Industrial visit
+05/02/23, 7:27 pm - Abith K Sunil (Chackochi): In machine learning, overfitting and underfitting refer to scenarios where a model is not fitting the data well enough.
+
+Overfitting occurs when a model is too complex and fits the training data too closely, including random noise and fluctuations in the data, leading to poor generalization performance on unseen data.
+Underfitting occurs when a model is too simple and cannot capture the underlying patterns in the data, leading to poor performance on both the training and test data.
+In both cases, the model is not making accurate predictions on new data and is therefore considered not to be a good model. To prevent overfitting, techniques such as regularization and early stopping can be used. To prevent underfitting, techniques such as increasing the model complexity or using more features can be used.
+05/02/23, 7:27 pm - Abith K Sunil (Chackochi): Overfitting and underfitting are issues that arise when building machine learning models.
+
+Overfitting means the model is too complicated and is memorizing the training data, rather than learning the underlying patterns. This leads to poor performance on new data.
+Underfitting means the model is too simple and cannot capture the relationships in the data. This also leads to poor performance on new data.
+The goal is to find a model that is not too complex (to avoid overfitting) and not too simple (to avoid underfitting) and that can accurately make predictions on new data.
+05/02/23, 7:27 pm - Abith K Sunil (Chackochi): Here are examples of overfitting and underfitting in real-world machine learning:
+
+Overfitting:
+
+A medical diagnosis model that is trained on a small and highly specific patient population, leading to poor performance and incorrect diagnoses for patients who are not part of that population.
+A stock market prediction model that uses too many variables and fits the training data too closely, leading to poor performance on new data and incorrect predictions.
+Underfitting:
+
+A home price prediction model that only uses square footage as a feature, leading to poor performance and inaccurate predictions because other factors like location and age of the house also play a role in determining the price.
+A fraud detection model that is too simple and cannot distinguish between fraudulent and legitimate transactions, leading to many false positives or false negatives.
+In both cases, the goal is to find a model that generalizes well to new data and makes accurate predictions. This is often achieved by finding the right balance between model complexity and simplicity.
+05/02/23, 7:28 pm - Abith K Sunil (Chackochi): Concept	Definition	Usage
+Possibility	Refers to a situation or an event that can occur in the future, but does not indicate how likely it is to happen.	"There is a possibility of rain tomorrow."
+Chance	Refers to a random occurrence of an event that is not predetermined.	"By chance, I ran into an old friend."
+Probability	A measure of the likelihood of an event occurring, expressed as a number between 0 and 1, with 0 meaning an event is impossible and 1 meaning it is certain.	"The probability of rolling a six on a fair dice is 1/6."
+Likelihood	A measure of the probability of an event occurring, often expressed as a qualitative description such as "likely" or "unlikely".	"It is likely that the stock price will increase next quarter."
+06/02/23, 3:58 pm - Abith K Sunil (Chackochi): https://machinehack.com/hackathons/coupon_redemption_challenge/overview
+06/02/23, 3:58 pm - Abith K Sunil (Chackochi): \
+06/02/23, 4:02 pm - Abith K Sunil (Chackochi): https://machinehack.com/hackathons/coupon_redemption_challenge/overview
+07/02/23, 1:20 pm - Abith K Sunil (Chackochi): How can I implement a Data Fabric solution?
+07/02/23, 1:21 pm - Abith K Sunil (Chackochi): How does Data Fabric help improve data governance and management?
+07/02/23, 1:22 pm - Abith K Sunil (Chackochi): Can Data Fabric support real-time data processing and analytics?
+07/02/23, 1:22 pm - Abith K Sunil (Chackochi): How does Data Fabric impact data architecture and technology stack?
+07/02/23, 7:03 pm - Abith K Sunil (Chackochi): Stride in Convolutional Neural Networks (CNNs) refers to the step size with which the convolutional filter slides over the input image while performing convolution. In other words, it determines the number of pixels by which the filter is moved each time. A larger stride results in a downsampled feature map, while a smaller stride results in a more detailed feature map. The stride length affects the spatial dimensions of the output feature map, and also the computational cost of the convolution operation.
+07/02/23, 7:05 pm - Abith K Sunil (Chackochi): mark size , padding ,stride , pool these are the parameter of the CNN
+07/02/23, 7:05 pm - Abith K Sunil (Chackochi): this is how the Arichitecture of CNN
+07/02/23, 7:22 pm - Abith K Sunil (Chackochi): Lenet in CNN
+LeNet is a Convolutional Neural Network (CNN) architecture that was introduced in the late 1990s. It was one of the earliest deep learning models designed for image classification tasks and is widely considered a pioneer in the field of deep learning. The architecture of LeNet consists of several convolutional and pooling layers, followed by fully connected layers. The main contribution of LeNet was its ability to effectively classify handwritten digits, demonstrating the potential of deep learning for image recognition tasks. Today, LeNet has served as an inspiration for many other CNN architectures and its concepts are still widely used in computer vision and image classification applications.
+
+
+
+
+ABITH.K.SUNIL 22122002
+Inception NET
+InceptionNet is a Convolutional Neural Network (CNN) architecture introduced by Google in 2014. It is named "Inception" because of its unique architecture that allows the network to consider multiple aspects or inception modules of the input data simultaneously. The Inception architecture consists of multiple small convolutional filters of different sizes that are applied to the input image in parallel. These inception modules extract different feature maps, which are then concatenated and fed into deeper layers of the network. The key idea behind the Inception architecture is to allow the network to learn both local and global features of the input image, making it highly flexible and scalable. InceptionNet has been used for various computer vision tasks, such as image classification and object detection, and has been a basis for many subsequent CNN architectures.
+
+
+
+
+ABITH.K.SUNIL 22122002
+Google NET
+GoogLeNet (also known as Inception v1) is a Convolutional Neural Network (CNN) architecture introduced by Google in 2014. It was one of the first CNNs to surpass human-level accuracy on the ImageNet benchmark, a large dataset of images used for training and evaluating computer vision models. GoogLeNet's architecture is based on the Inception concept, where multiple small convolutional filters of different sizes are applied to the input image in parallel, allowing the network to learn both local and global features of the input. Unlike traditional CNNs, which stack multiple layers of convolution and pooling operations, GoogLeNet uses a modular architecture with multiple inception modules. The network also includes a global average pooling layer to reduce the spatial dimensions of the feature maps before passing them through fully connected layers. The combination of these design choices makes GoogLeNet highly flexible, efficient, and capable of handling large-scale image recognition tasks.
+
+
+
+
+ABITH.K.SUNIL 22122002
+VGG net
+VGGNet is a Convolutional Neural Network (CNN) architecture introduced in 2014 by researchers at the University of Oxford. The architecture was designed to address the limitations of other CNNs at the time and was named after the group of researchers called the Visual Geometry Group (VGG). The key characteristic of VGGNet is the use of multiple convolutional layers with small filters (typically 3x3), followed by max pooling layers. This design choice allows the network to extract high-level features from the input image through a large number of stacking convolutional layers. VGGNet also uses fully connected layers at the end of the network, allowing it to make predictions based on the learned features. The architecture is simple and straightforward, making it easy to understand and implement. VGGNet has been widely used in computer vision tasks and has served as a benchmark for other CNN architectures.
+
+
+
+
+ABITH.K.SUNIL 22122002
+what is convulation 
+Convolution is a mathematical operation that is widely used in image and signal processing. It involves taking the dot product of a small matrix called the kernel or filter with a portion of the input data, such as an image. In Convolutional Neural Networks (CNNs), convolution is used to extract features from the input image. The filter slides over the input image, and at each position, the dot product is taken between the filter values and the values in the input region that the filter is covering. This results in a new feature map, which represents the filtered version of the input. The filter can be thought of as a pattern detector, and convolution allows the network to learn multiple such filters, each extracting different features from the input. Convolution is a fundamental building block of CNNs, and is used repeatedly throughout the network to extract high-level features from the input data.
+07/02/23, 7:29 pm - Abith K Sunil (Chackochi): adaline Cnn
+ADALINE (Adaptive Linear Neuron) is an algorithm in the field of artificial neural networks that was proposed by Bernard Widrow and Ted Hoff in 1960. It is a single-layer neural network that implements linear activation functions.
+
+CNN (Convolutional Neural Network) is a type of artificial neural network that is specifically designed to process data with grid-like topology, such as an image. It is made up of multiple layers including Convolutional layers, Pooling layers, and fully connected layers. Convolutional layers are responsible for capturing the spatial and contextual information from the image, Pooling layers are used for down-sampling, and fully connected layers are used for classification tasks.
+
+
+
+
+ABITH.K.SUNIL 22122002
+Madline
+MADALINE (Multiple Adaptive Linear Element) is a type of artificial neural network that is similar to the ADALINE algorithm. It consists of multiple adaptive linear neurons connected in parallel to form a single layer network, with a shared weight vector. The difference between MADALINE and ADALINE is that MADALINE uses multiple adaptive linear neurons, while ADALINE uses a single adaptive linear neuron. Both algorithms were proposed by Bernard Widrow and Ted Hoff in 1960.
+
+
+
+
+ABITH.K.SUNIL 22122002
+sum of products
+The sum of products (SOP) is a mathematical expression used to represent a logical function. In digital logic, the SOP form represents a Boolean function as a sum of minterms, where each minterm is the product of Boolean variables and their complements. The SOP form is commonly used in digital circuit design and analysis to represent the output of a logic circuit. The SOP expression can be implemented in hardware using gates such as AND gates and OR gates.
+
+For example, the SOP expression for a Boolean function f(x,y,z) = x'y + xy'z can be represented as f(x,y,z) = (x'y) + (xy'z), where x', y', and z' represent the complements of x, y, and z, respectively.
+08/02/23, 7:58 am - Abith K Sunil (Chackochi): <Media omitted>
+08/02/23, 12:45 pm - Abith K Sunil (Chackochi): import java.util.Scanner;
+
+public class MenuDrivenProgram {
+  static String[] names = new String[1024];
+  static int numNames = 0;
+
+  public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
+    int choice;
+
+    do {
+      System.out.println("\nMenu:");
+      System.out.println("1. Enter a name");
+      System.out.println("2. Search for a name");
+      System.out.println("3. Remove a name");
+      System.out.println("4. Show all names");
+      System.out.println("5. Exit");
+      System.out.print("Enter your choice: ");
+
+      choice = sc.nextInt();
+
+      switch (choice) {
+        case 1:
+          addName();
+          break;
+        case 2:
+          searchName();
+          break;
+        case 3:
+          removeName();
+          break;
+        case 4:
+          showNames();
+          break;
+        case 5:
+          System.out.println("Exiting program...");
+          break;
+        default:
+          System.out.println("Invalid choice. Try again.");
+          break;
+      }
+    } while (choice != 5);
+
+    sc.close();
+  }
+
+  static void addName() {
+    Scanner sc = new Scanner(System.in);
+    String name;
+
+    System.out.print("Enter a name: ");
+    name = sc.nextLine();
+
+    if (isValidName(name) && !isDuplicate(name)) {
+      names[numNames++] = name;
+      System.out.println("Name added successfully.");
+    } else {
+      System.out.println("Invalid name or name already exists. Try again.");
+    }
+
+    sc.close();
+  }
+
+  static void searchName() {
+    Scanner sc = new Scanner(System.in);
+    String name;
+
+    System.out.print("Enter a name to search: ");
+    name = sc.nextLine();
+
+    int index = findIndex(name);
+    if (index != -1) {
+      System.out.println("Name found at index " + index + ".");
+    } else {
+      System.out.println("Name not found.");
+    }
+
+    sc.close();
+  }
+
+  static void removeName() {
+    Scanner sc = new Scanner(System.in);
+    String name;
+
+    System.out.print("Enter a name to remove: ");
+    name = sc.nextLine();
+
+    int index = findIndex(name);
+    if (index != -1) {
+      for (int i = index; i < numNames - 1; i++) {
+        names[i] = names[i + 1];
+      }
+      numNames--;
+      System.out.println("Name removed successfully.");
+    } else {
+      System.out.println("Name not found.");
+    }
+
+    sc.close();
+  }
+
+  static void showNames() {
+    if (numNames == 0) {
+      System.out.println("No names to show."
+11/02/23, 7:53 am - Abith K Sunil (Chackochi): <Media omitted>
+11/02/23, 8:07 am - Abith K Sunil (Chackochi): <Media omitted>
+16/02/23, 9:51 am - Abith K Sunil (Chackochi): public static int[] countVowels(String inputString) {
+    int[] vowelCounts = new int[5]; // 5 vowels in English language
+    
+    for (int i = 0; i < inputString.length(); i++) {
+        char c = inputString.charAt(i);
+        switch (c) {
+            case 'a':
+                vowelCounts[0]++;
+                break;
+            case 'e':
+                vowelCounts[1]++;
+                break;
+            case 'i':
+                vowelCounts[2]++;
+                break;
+            case 'o':
+                vowelCounts[3]++;
+                break;
+            case 'u':
+                vowelCounts[4]++;
+                break;
+            default:
+                // do nothing
+                break;
+        }
+    }
+    
+    return vowelCounts;
+}
+17/02/23, 8:51 am - Abith K Sunil (Chackochi): import numpy as np
+import statsmodels.api as sm
+
+# Generate some example data
+x = np.array([1, 2, 3, 4, 5])
+y = np.array([2, 4, 5, 4, 5])
+
+# Add a constant term to the predictor variable
+X = sm.add_constant(x)
+
+# Fit the linear regression model
+model = sm.OLS(y, X).fit()
+
+# Print the model summary
+print(model.summary())
+
+# Extract the coefficients (beta_0 and beta_1)
+beta_0 = model.params[0]
+beta_1 = model.params[1]
+
+print("beta_0 =", beta_0)
+print("beta_1 =", beta_1)
+17/02/23, 10:08 am - Abith K Sunil (Chackochi): https://www.statology.org/sklearn-linear-regression-summary/#:~:text=We%20can%20use%20the%20following%20code%20to%20fit,%5B%27x1%27%2C%20%27x2%27%5D%5D%2C%20df.y%20%23fit%20regression%20model%20model.fit%28X%2C%20y%29
+20/02/23, 11:32 am - Abith K Sunil (Chackochi): import java.util.Scanner;
+
+public class Bank{
+    private static int accountNumber;
+    private static String accountHolderName;
+    private static double accountBalance;
+    static Scanner scanner = new Scanner(System.in);
+    
+    public static void main(String[] args) {
+        initializeCustomer();
+        int choice=0;
+        boolean exit = false;
+        while (!exit) {
+            System.out.println("Menu:");
+            System.out.println("1. Deposit money");
+            System.out.println("2. Withdraw money");
+            System.out.println("3. Print transactions");
+            System.out.println("4. Print account summary");
+            System.out.println("5. Exit");
+            choice = Integer.parseInt(scanner.nextLine());
+            switch (choice) {
+                case 1:
+                    depositMoney();
+                    break;
+                case 2:
+                    withdrawMoney();
+                    break;
+                case 3:
+                    printTransactions();
+                    break;
+                case 4:
+                    printAccountSummary();
+                    break;
+                case 5:
+                    exit = true;
+                    break;
+                default:
+                    System.out.println("Invalid choice");
+                    break;
+            }
+        }
+    }
+    
+    public static void initializeCustomer() {
+        System.out.println("Enter account number:");
+        accountNumber = Integer.parseInt(scanner.nextLine());
+        System.out.println("Enter account holder name:");
+        accountHolderName = scanner.nextLine();
+        System.out.println("Enter account balance:");
+        accountBalance = Double.parseDouble(scanner.nextLine());
+        System.out.println("Account created with balance " + accountBalance);
+    }
+    
+    public static void depositMoney() {
+        System.out.println("Enter amount to deposit:");
+        double amount =  Double.parseDouble(scanner.nextLine());
+        accountBalance += amount;
+        String transactionDetails = "Deposit: " + amount + ", New Balance: " + accountBalance + "\n";
+        System.out.println("Deposit successful");
+        updateTransactionHistory(transactionDetails);
+    }
+    
+    public static void withdrawMoney() {
+        System.out.println("Enter amount to withdraw:");
+        double amount =  Double.parseDouble(scanner.nextLine());
+        if (amount > accountBalance) {
+            System.out.println("Insufficient balance");
+        } else {
+            accountBalance -= amount;
+            String transactionDetails = "Withdrawal: " + amount + ", New Balance: " + accountBalance + "\n";
+            System.out.println("Withdrawal successful");
+            updateTransactionHistory(transactionDetails);
+        }
+    }
+    
+    public static void printTransactions() {
+        System.out.println("Transaction history:");
+        System.out.println(getTransactionHistory());
+    }
+    
+    public static void printAccountSummary() {
+        System.out.println("Account number: " + accountNumber);
+        System.out.println("Account holder name: " + accountHolderName);
+        System.out.println("Account balance: " + accountBalance);
+    }
+    
+    private static String transactionHistory = "";
+    
+    private static void updateTransactionHistory(String transactionDetails) {
+        transactionHistory += transactionDetails;
+    }
+    
+    private static String getTransactionHistory() {
+        return transactionHistory;
+    }
+}
+28/02/23, 1:16 pm - Abith K Sunil (Chackochi): accounts.lavasa@christuniversity.in
+28/02/23, 8:29 pm - Abith K Sunil (Chackochi): 8070707069
+02/03/23, 2:59 pm - Abith K Sunil (Chackochi): Ciders day out
+02/03/23, 2:59 pm - Abith K Sunil (Chackochi): Trust ur senses
+02/03/23, 2:59 pm - Abith K Sunil (Chackochi): Web pagena
+02/03/23, 2:59 pm - Abith K Sunil (Chackochi): Eco media
+02/03/23, 2:59 pm - Abith K Sunil (Chackochi): Event x
+02/03/23, 2:59 pm - Abith K Sunil (Chackochi): Lavasa
+02/03/23, 2:59 pm - Abith K Sunil (Chackochi): Hacakthon
+02/03/23, 2:59 pm - Abith K Sunil (Chackochi): Ur on my table
+02/03/23, 3:00 pm - Abith K Sunil (Chackochi): Playerstory
+02/03/23, 3:00 pm - Abith K Sunil (Chackochi): Stock delima
+11/03/23, 6:24 pm - Abith K Sunil (Chackochi): <Media omitted>
+15/03/23, 6:16 pm - Abith K Sunil (Chackochi): Video
+15/03/23, 6:18 pm - Abith K Sunil (Chackochi): How algorithm is written
+15/03/23, 6:19 pm - Abith K Sunil (Chackochi): Supervised learning
+15/03/23, 6:19 pm - Abith K Sunil (Chackochi): Most likely we end up in doing image analysis
+15/03/23, 6:19 pm - Abith K Sunil (Chackochi): Modeling
+15/03/23, 6:20 pm - Abith K Sunil (Chackochi): Self supervised learning
+15/03/23, 6:26 pm - Abith K Sunil (Chackochi): 45 min every day
+15/03/23, 6:49 pm - Abith K Sunil (Chackochi): Civil manu
+15/03/23, 8:07 pm - Abith K Sunil (Chackochi): Image feature extraction and 
+
+Recent trends in patterns regulation in remote sensing
+15/03/23, 8:10 pm - Abith K Sunil (Chackochi): Regonisation *
+17/03/23, 6:03 pm - Abith K Sunil (Chackochi): Jro
+17/03/23, 6:03 pm - Abith K Sunil (Chackochi): Sanjeev
+17/03/23, 6:03 pm - Abith K Sunil (Chackochi): Tejas
+17/03/23, 6:03 pm - Abith K Sunil (Chackochi): Divya
+17/03/23, 6:03 pm - Abith K Sunil (Chackochi): Reena
+17/03/23, 6:03 pm - Abith K Sunil (Chackochi): Satyajit
+18/03/23, 8:15 am - Abith K Sunil (Chackochi): <Media omitted>
+18/03/23, 5:40 pm - Abith K Sunil (Chackochi): August 9
+18/03/23, 5:40 pm - Abith K Sunil (Chackochi): August 13
+20/03/23, 8:38 am - Abith K Sunil (Chackochi): https://youtube.com/shorts/zIpslX6MjDM?feature=share
+21/03/23, 10:56 am - Abith K Sunil (Chackochi): <Media omitted>
+21/03/23, 10:57 am - Abith K Sunil (Chackochi): <Media omitted>
+21/03/23, 11:40 am - Abith K Sunil (Chackochi): <Media omitted>
+27/03/23, 4:31 pm - Abith K Sunil (Chackochi): https://neptune.ai/blog/self-supervised-learning#:~:text=Self%2Dsupervised%20learning%20is%20a,by%20auto%2Dgenerating%20the%20labels.
+30/03/23, 11:37 pm - Abith K Sunil (Chackochi): <Media omitted>
+30/03/23, 11:37 pm - Abith K Sunil (Chackochi): <Media omitted>
+30/03/23, 11:37 pm - Abith K Sunil (Chackochi): <Media omitted>
+01/04/23, 5:12 pm - Abith K Sunil (Chackochi): <Media omitted>
+03/04/23, 11:17 am - Abith K Sunil (Chackochi): Title
+Year of publication
+Publisher
+Keywords
+Nature of Dataset
+Method
+Focus
+Category
+Accuracy measure
+Accuracy value 
+Relevance
+04/04/23, 12:34 pm - Abith K Sunil (Chackochi): Title
+Year of publication
+Publisher
+Keywords
+Nature of Dataset
+Method
+Focus
+Category
+Accuracy measure
+Accuracy value 
+Relevance
+04/04/23, 3:31 pm - Abith K Sunil (Chackochi): My dearest Achhhuuuuu..
+Ninaku aala dhe vere aarakum nanj ee letter not writing. 
+Née ene kadichu.. Pichi aalavar dhe mumbil ene Pichi. Lola Heart aanu ente,  feel ayee , Complex anu ninaku enet athre Naala heart eela thondu.
+🥲🥲
+OK Now I will be poetic
+04/04/23, 8:45 pm - Abith K Sunil (Chackochi): <Media omitted>
+06/04/23, 11:07 am - Abith K Sunil (Chackochi): https://youtube.com/shorts/h1y11cS2aqs?feature=share
+06/04/23, 1:19 pm - Abith K Sunil (Chackochi): <Media omitted>
+10/04/23, 5:38 am - Abith K Sunil (Chackochi): <Media omitted>
+10/04/23, 9:20 pm - Abith K Sunil (Chackochi): <Media omitted>
+10/04/23, 9:21 pm - Abith K Sunil (Chackochi): <Media omitted>
+10/04/23, 9:23 pm - Abith K Sunil (Chackochi): <Media omitted>
+12/04/23, 1:28 pm - Abith K Sunil (Chackochi): Gudgal pagal dhegun tha
+15/04/23, 10:15 am - Abith K Sunil (Chackochi): New chat
+
+
+ABITH.K.SUNIL 22122002
+Write a short note of my contribution and frame into a sentence .. contributions are mentioned below.
+Seriving the food for Banglore University Council Member. Both lunch and dinner
+Interacting with them
+Helping them in buying their stuffs . Taking them to a campus tour.
+Being with Boys on the  hostel .
+Helping Vignesh and Saurab. 
+Took the girls of Student Council banglore to a walk in the market in the evening and made sure they are in the residency before 11 pm.
+Made sure that vistors go on tracking in the morning. 
+Stayed hungry to make sure everyone had Enough food 
+
+You have made significant contributions to the Banglore University Council by serving them food, interacting with them, helping them with their needs, taking them on campus tours, assisting the hostel boys, helping individuals named Vignesh and Saurab, escorting the girls of the Student Council for a walk in the market, ensuring their safety by getting them back to the residency before 11 pm, facilitating visitors to go tracking in the morning, and sacrificing your own meals to ensure everyone had enough to eat.
+
+
+2 / 2
+
+
+
+
+ABITH.K.SUNIL 22122002
+Write the above message in little bit elaborate way. And makes good to read
+
+Your contributions to the Banglore University Council are noteworthy and commendable. You have not only served them with delicious and hygienic meals for both lunch and dinner, but also engaged with them in meaningful conversations and made sure their needs were met during their stay. Additionally, you have gone above and beyond your duties by taking them on a comprehensive tour of the campus, assisting the hostel boys with their requirements, and providing support to individuals named Vignesh and Saurab.
+
+Your efforts to ensure the safety and wellbeing of the Student Council girls are particularly noteworthy. You accompanied them on a walk in the market in the evening and made sure they were back in their residency before 11 pm. Your dedication to your responsibilities is also evident in your commitment to ensuring visitors to the campus were able to go tracking in the morning.
+
+Furthermore, your selfless act of staying hungry to make sure everyone had enough food showcases your kind-hearted nature and willingness to go the extra mile to serve others. Your contributions have undoubtedly made a positive impact on the Banglore University Council and those around you. Your efforts have not gone unnoticed and are truly appreciated.
+15/04/23, 10:36 am - Abith K Sunil (Chackochi): Your contributions to the Student Council have been extensive and diverse. From promoting the Lavasa campus in Bangalore and doing media work for the Council, to accompanying Naived sir and assisting in the teachers' day program, you have demonstrated your commitment to the Council's mission.
+
+Despite not being on any committee, you were involved in almost all of the Council's activities and socialized with the people within it. Working closely with your fellow pg mate, you contributed significantly to the NAC by assisting in content framing and helping fellow mates.
+15/04/23, 10:37 am - Abith K Sunil (Chackochi): New chat
+
+
+ABITH.K.SUNIL 22122002
+Write a short note of my contribution and frame into a sentence .. contributions are mentioned below.
+Seriving the food for Banglore University Council Member. Both lunch and dinner
+Interacting with them
+Helping them in buying their stuffs . Taking them to a campus tour.
+Being with Boys on the  hostel .
+Helping Vignesh and Saurab. 
+Took the girls of Student Council banglore to a walk in the market in the evening and made sure they are in the residency before 11 pm.
+Made sure that vistors go on tracking in the morning. 
+Stayed hungry to make sure everyone had Enough food 
+
+You have made significant contributions to the Banglore University Council by serving them food, interacting with them, helping them with their needs, taking them on campus tours, assisting the hostel boys, helping individuals named Vignesh and Saurab, escorting the girls of the Student Council for a walk in the market, ensuring their safety by getting them back to the residency before 11 pm, facilitating visitors to go tracking in the morning, and sacrificing your own meals to ensure everyone had enough to eat.
+
+
+2 / 2
+
+
+
+
+ABITH.K.SUNIL 22122002
+Write the above message in little bit elaborate way. And makes good to read
+
+Your contributions to the Banglore University Council have been truly exceptional. Your unwavering commitment to serving both lunch and dinner to the council members with a warm smile and friendly demeanor did not go unnoticed. Your ability to engage and interact with them made them feel comfortable and at ease, creating a conducive atmosphere for productive discussions.
+
+In addition to serving their needs, you went above and beyond by assisting them in buying their supplies and taking them on a campus tour. Your willingness to be present for the hostel boys and your assistance to individuals named Vignesh and Saurab did not go unnoticed.
+
+Moreover, your care and attention to detail was also evident in the way you escorted the girls of the Student Council for a walk in the market and ensured their safety by getting them back to the residency before 11 pm. You also made sure that visitors were able to go tracking in the morning, even if it meant you had to sacrifice your own meals to ensure everyone had enough to eat.
+
+Your contributions have not only made a significant impact on the council members but have also set an example of service and dedication that others can aspire to. Your willingness to go above and beyond in serving the needs of others is a testament to your outstanding character and commitment to excellence.
+
+
+2 / 2
+
+
+
+
+ABITH.K.SUNIL 22122002
+Write my contribution to Student Council. 
+I went to banglore Daksh. For promoting lavasa campus in Banglore.
+Done media work of the Council in college
+Accompanied Naived sir.
+Worked for the teachers day program in fixing the events
+Eventough not in any committee but almost worked for all the committees in the Council.
+I socialized with the people in the Council.
+With my pg fellow mate I probably worked more.
+I have a small contribution during NAC helping in framing contents and assiting fellow mates 
+Helping in putting up the stall in the winter fest and also during step the live sport shows in the campus . I also contributed in the Hospitality Mainly in the Council 
+
+Now frame it into sentence 
+
+Your contributions to the Student Council have been extensive and diverse. From promoting the Lavasa campus in Bangalore and doing media work for the Council, to accompanying Naived sir and assisting in the teachers' day program, you have demonstrated your commitment to the Council's mission.
+
+Despite not being on any committee, you were involved in almost all of the Council's activities and socialized with the people within it. Working closely with your fellow pg mate, you contributed significantly to the NAC by assisting in content framing and helping fellow mates.
+
+Your contributions also extended to putting up stalls during the winter fest and helping out during the live sports shows on campus. Additionally, you played a significant role in hospitality for the Council.
+
+Overall, your dedication and hard work have made a substantial impact on the Student Council, and your contributions have been greatly appreciated.
+
+
+
+
+ABITH.K.SUNIL 22122002
+Elaborate the above sentence into more words to feel good to read
+
+Your contributions to the Student Council have been truly remarkable, showcasing your dedication and passion towards the betterment of the Council. Your tireless efforts in promoting the Lavasa campus in Bangalore and conducting media work for the Council have helped to create awareness and garner support for its mission.
+
+In addition, your unwavering commitment to the Council's initiatives was evident in your involvement in various activities such as accompanying Naived sir and working on the teachers' day program, where you played an integral role in fixing the events. Although not a member of any committee, you were an essential asset to the Council, contributing to almost all of its activities and socializing with its members.
+
+Collaborating closely with your fellow pg mate, you made valuable contributions to the NAC, assisting in content framing and guiding your fellow mates. Your selfless acts of kindness extended beyond the NAC to putting up stalls during the winter fest and providing invaluable assistance during the live sports shows on campus.
+
+Furthermore, your commitment to hospitality in the Council was exemplary, demonstrating your willingness to go above and beyond in providing support wherever necessary. Your contributions to the Council have been immeasurable, and your dedication and hard work have not gone unnoticed.
+
+Your passion and commitment to the Council's mission are an inspiration to others, and your contributions have set a benchmark for excellence in service. The Student Council is incredibly grateful for all that you have done and continues to do, and your selfless acts of service will be remembered for years to come.
+
+
+
+
+Send a message...
+
+
+ChatGPT Mar 23 Version. Free Research Preview.
+19/04/23, 11:57 am - Abith K Sunil (Chackochi): <Media omitted>
+19/04/23, 7:24 pm - Abith K Sunil (Chackochi): Pattern regonisation and remote sensing
+19/04/23, 7:26 pm - Abith K Sunil (Chackochi): Moco simciyala
+22/04/23, 3:01 pm - Abith K Sunil (Chackochi): https://youtu.be/K_A3ld-AS5w
+22/04/23, 11:10 pm - Abith K Sunil (Chackochi): dad
+23/04/23, 6:15 pm - Abith K Sunil (Chackochi): <Media omitted>
+23/04/23, 6:27 pm - Abith K Sunil (Chackochi): <Media omitted>
+23/04/23, 6:27 pm - Abith K Sunil (Chackochi): <Media omitted>
+23/04/23, 6:59 pm - Abith K Sunil (Chackochi): <Media omitted>
+23/04/23, 6:59 pm - Abith K Sunil (Chackochi): <Media omitted>
+24/04/23, 1:15 am - Abith K Sunil (Chackochi): <Media omitted>
+24/04/23, 1:37 am - Abith K Sunil (Chackochi): OK just a min
+24/04/23, 7:37 am - Abith K Sunil (Chackochi): <Media omitted>
+24/04/23, 7:41 am - Abith K Sunil (Chackochi): <Media omitted>
+24/04/23, 7:41 am - Abith K Sunil (Chackochi): <Media omitted>
+24/04/23, 7:41 am - Abith K Sunil (Chackochi): <Media omitted>
+24/04/23, 7:41 am - Abith K Sunil (Chackochi): <Media omitted>
+24/04/23, 7:44 am - Abith K Sunil (Chackochi): <Media omitted>
+24/04/23, 7:44 am - Abith K Sunil (Chackochi): <Media omitted>
+24/04/23, 7:44 am - Abith K Sunil (Chackochi): <Media omitted>
+24/04/23, 8:13 am - Abith K Sunil (Chackochi): <Media omitted>
+25/04/23, 4:19 pm - Abith K Sunil (Chackochi): ashaq.ganie@christuniversity.in
+25/04/23, 4:51 pm - Abith K Sunil (Chackochi): https://forms.gle/q3ecM5cfC3W19s3XA
+26/04/23, 2:16 am - Abith K Sunil (Chackochi): Manavalan thug x Mangalasery nelakandan 🔥🔥🔥  /devasuram status / mohanlal whatsapp status #mohanlal
+https://www.youtube.com/watch?v=AaSOs8Vkxm8
+26/04/23, 2:28 am - Abith K Sunil (Chackochi): Big b Malayalam movie Whatsapp status 🔥
+https://www.youtube.com/watch?v=KIiRpxtj8Vw
+26/04/23, 2:30 am - Abith K Sunil (Chackochi): Bijo in big b
+https://www.youtube.com/watch?v=C_kr4JcZUFY
+26/04/23, 2:34 am - Abith K Sunil (Chackochi): BIG B. BILAL STATUS MALAYALAM
+https://www.youtube.com/watch?v=D3K2dxcBlAc
+26/04/23, 2:39 am - Abith K Sunil (Chackochi): https://youtu.be/LO6uRxlVJG4
+27/04/23, 4:10 pm - Abith K Sunil (Chackochi): <Media omitted>
+01/05/23, 6:02 pm - Abith K Sunil (Chackochi): <Media omitted>
+04/05/23, 9:38 am - Abith K Sunil (Chackochi): https://www.sourcecodester.com/java/15477/simple-bus-ticketing-system-java-free-source-code.html
+05/05/23, 4:21 pm - Abith K Sunil (Chackochi): git init
+05/05/23, 4:21 pm - Abith K Sunil (Chackochi): git add --all
+05/05/23, 4:22 pm - Abith K Sunil (Chackochi): git commit -m "first commit"
+05/05/23, 4:22 pm - Abith K Sunil (Chackochi): git branch -M main
+05/05/23, 4:23 pm - Abith K Sunil (Chackochi): git remote add origin https
+05/05/23, 4:24 pm - Abith K Sunil (Chackochi): git puch -u origin main
+05/05/23, 7:01 pm - Abith K Sunil (Chackochi): assignment question
+1. Explain descrimination analysis in detail
+2. Discuss Principal Component Analysis.
+06/05/23, 10:43 am - Abith K Sunil (Chackochi): create a google analytics 4 channel report in looker studio
+06/05/23, 11:28 am - Abith K Sunil (Chackochi): <Media omitted>
+06/05/23, 11:29 am - Abith K Sunil (Chackochi): <Media omitted>
+07/05/23, 1:43 am - Abith K Sunil (Chackochi): <Media omitted>
+08/05/23, 2:29 pm - Abith K Sunil (Chackochi): To determine E(y/x) and cov(y/x), we need to first calculate the conditional means and variances of y given x1 and x2:
+
+E(y|x1=356) = (0.81 + 1.04) / 2 = 0.925
+E(y|x1=289) = 0.95
+E(y|x1=319) = 0.94
+E(y|x1=323) = 1.00
+E(y|x1=356) = (0.81 + 1.04) / 2 = 0.925
+
+E(y|x2=124) = (0.81 + 0.95) / 2 = 0.88
+E(y|x2=117) = 0.95
+E(y|x2=143) = 0.94
+E(y|x2=199) = 1.04
+E(y|x2=240) = 1.00
+
+Var(y|x1=356) = [(0.81-0.925)^2 + (1.04-0.925)^2] / 2 = 0.03625
+Var(y|x1=289) = (0.95-0.95)^2 = 0
+Var(y|x1=319) = (0.94-0.94)^2 = 0
+Var(y|x1=323) = (1.00-1.00)^2 = 0
+Var(y|x1=356) = [(0.81-0.925)^2 + (1.04-0.925)^2] / 2 = 0.03625
+
+Var(y|x2=124) = [(0.81-0.88)^2 + (0.95-0.88)^2] / 2 = 0.01225
+Var(y|x2=117) = (0.95-0.95)^2 = 0
+Var(y|x2=143) = (0.94-0.94)^2 = 0
+Var(y|x2=199) = (1.04-1.04)^2 = 0
+Var(y|x2=240) = (1.00-1.00)^2 = 0
+
+Now we can calculate E(y/x) and cov(y/x) using the following formulas:
+
+E(y/x) = E(y|x1,x2) = E(y|x1) = E(y|x2)
+cov(y/x) = E[(y-E(y/x))(x-E(x))] = E[(y-E(y))(x-E(x))] = E(yx) - E(y)E(x)
+
+So we need to calculate E(x), E(y), and E(yx):
+
+E(x) = (356+289+319+356+323+124+117+143+199+240) / 10 = 239.2
+E(y) = (0.81+0.95+0.94+1.04+1.00+80+97+105+90+90) / 10 = 47.5
+
+E(yx) = (0.81356 + 0.95289 + 0.94319 + 1.04356 + 1.00323 + 80124 + 97117 + 105143 + 90199 + 90240) / 10 = 21270.6
+
+Now we can calculate E(y/x) and cov(y/x):
+
+E(y/x) = (0.925+0.95+0.94+1.00+0.925+0
+
+
+
+
+
+User
+continue
+ChatGPT
++0.88+0.94+1.04+1.00) / 10 = 0.9475
+
+cov(y/x) = E(yx) - E(y)E(x) = 21270.6 - 47.5*239.2 = -408.68
+
+Therefore, the expected value of y given x is approximately 0.9475, and the covariance between y and x is approximately -408.68. This indicates a negative linear relationship between y and x, where as the values of x increase, the values of y tend to decrease. However, the magnitude of the covariance is relatively large, indicating a relatively strong relationship between y and x.
+09/05/23, 9:18 am - Abith K Sunil (Chackochi): <Media omitted>
+09/05/23, 9:18 am - Abith K Sunil (Chackochi): <Media omitted>
+09/05/23, 9:18 am - Abith K Sunil (Chackochi): <Media omitted>
+09/05/23, 9:18 am - Abith K Sunil (Chackochi): <Media omitted>
+10/05/23, 9:17 am - Abith K Sunil (Chackochi): <Media omitted>
+11/05/23, 7:46 am - Abith K Sunil (Chackochi): <Media omitted>
+11/05/23, 10:30 am - Abith K Sunil (Chackochi): 9327196927
+11/05/23, 10:33 am - Abith K Sunil (Chackochi): 9327196927
+11/05/23, 11:37 am - Abith K Sunil (Chackochi): 7378582703
+13/05/23, 6:58 am - Abith K Sunil (Chackochi): https://youtu.be/Ok_zkfWC0gI
+13/05/23, 7:07 am - Abith K Sunil (Chackochi): https://github.com/campusx-official/ipl-win-probability-predictor
+13/05/23, 1:00 pm - Abith K Sunil (Chackochi): https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set
+17/05/23, 1:06 am - Abith K Sunil (Chackochi): https://www.swashaa.com/cart?fbclid=PAAaZsvc8UEN87cUu8Y51H7MpiLzRdvWvscJyad9dpwAl4UB8ScdMs7E6xDlA_aem_th_AbTqimadwUmEpbwcx_BL3GjAPkQWHrGFo6jNxYJVK6s5-y6-i1LZ6asqE61HkOv0-hzHOJaavUFLMuK_MIIAz4K2
+22/05/23, 8:25 am - Abith K Sunil (Chackochi): <Media omitted>
+22/05/23, 8:25 am - Abith K Sunil (Chackochi): <Media omitted>
+23/05/23, 12:30 pm - Abith K Sunil (Chackochi): <Media omitted>
+30/05/23, 11:04 am - Abith K Sunil (Chackochi): <Media omitted>
+01/06/23, 12:55 pm - Abith K Sunil (Chackochi): 40 bingos
+05/06/23, 11:37 am - Abith K Sunil (Chackochi): <Media omitted>
+05/06/23, 10:12 pm - Abith K Sunil (Chackochi): New chat
+
+
+User
+I am Abith.K.Sunil.
+I am doing my Msc Data science in Christ University Lavasa .
+I did my UG in Pune Christ in the field of physics. 
+I am from kerala . I am settled in Maharashtra. 
+I like to conduct events. I have lead teams in conducting many events for college
+I mainly focus on my practical skills and efficiency in programming 
+My hobbies are I am Gym guy.
+Kabbadi is my favorite sport.
+In short a all-rounder. 
+With this information make an introduction 
+
+ChatGPT
+Hello Abith.K.Sunil,
+
+It's a pleasure to meet you! As an MSc Data Science student at Christ University Lavasa, you're clearly on an exciting journey into the world of data and analytics. Having completed your undergraduate studies in Physics at Pune Christ, you've demonstrated a strong academic foundation and a passion for understanding the fundamental workings of the universe.
+
+Being from Kerala and settled in Maharashtra, you've had the opportunity to experience the cultural diversity of both regions, which must have enriched your perspectives. Your interest in conducting events and leading teams showcases your excellent organizational and leadership skills. Your dedication to practical skills and programming efficiency in the field of data science highlights your commitment to honing your abilities and staying at the forefront of technological advancements.
+
+Beyond your academic pursuits, you're a fitness
+
+
+
+
+
+User
+I am Abith.K.Sunil.
+I am doing my Msc Data science in Christ University Lavasa .
+I did my UG in Pune Christ in the field of physics. 
+I am from kerala . I am settled in Maharashtra. 
+I like to conduct events. I have lead teams in conducting many events for college
+I mainly focus on my practical skills and efficiency in programming 
+My hobbies are I am Gym guy.
+Kabbadi is my favorite sport.
+In short a all-rounder. 
+Reframe this given information in an systematic order and use proper grammar and make proper sentence 
+
+ChatGPT
+Allow me to reframe the given information about you in a systematic order while using proper grammar to create coherent sentences:
+
+My name is Abith K. Sunil, and I am currently pursuing an MSc in Data Science at Christ University Lavasa. Previously, I completed my undergraduate studies in Physics at Pune Christ University. Originally hailing from Kerala, I am now settled in Maharashtra.
+
+Apart from my academic pursuits, I have a strong inclination towards event management. I have successfully led teams in organizing numerous events during my time in college. This experience has allowed me to refine my organizational and leadership skills.
+
+In the field of data science, I prioritize practical skills and strive for programming efficiency. I believe in staying up to date with the latest advancements and technologies to enhance my abilities in this domain.
+
+When I'm not engrossed in my studies, I enjoy staying fit and maintaining an active lifestyle. I am a regular at the gym, where I engage in various workouts to keep myself in shape. Additionally, Kabbadi is my favorite sport, which further highlights my enthusiasm for physical activity.
+
+In summary, I can be described as an all-rounder, excelling in academics, event management, programming, and maintaining a healthy and active lifestyle
+05/06/23, 10:14 pm - Abith K Sunil (Chackochi): My name is Abith K. Sunil, and I am currently pursuing an MSc in Data Science at Christ University Lavasa. Previously, I completed my undergraduate studies in Physics at Pune Christ University. Originally hailing from Kerala, I am now settled in Maharashtra.
+
+Apart from my academic pursuits, I have a strong inclination towards event management. I have successfully led teams in organizing numerous events during my time in college. This experience has allowed me to refine my organizational and leadership skills.
+
+In the field of data science, I prioritize practical skills and strive for programming efficiency. I believe in staying up to date with the latest advancements and technologies to enhance my abilities in this domain.
+
+When I'm not engrossed in my studies, I enjoy staying fit and maintaining an active lifestyle. I am a regular at the gym, where I engage in various workouts to keep myself in shape. Additionally, Kabbadi is my favorite sport, which further highlights my enthusiasm for physical activity.
+
+In summary, I can be described as an all-rounder, well in academics, event management, programming, and maintaining a healthy and active lifestyle
+06/06/23, 1:38 am - Abith K Sunil (Chackochi): <Media omitted>
+06/06/23, 1:38 am - Abith K Sunil (Chackochi): <Media omitted>
+06/06/23, 9:15 am - Abith K Sunil (Chackochi): <Media omitted>
+06/06/23, 9:16 am - Abith K Sunil (Chackochi): <Media omitted>
+06/06/23, 9:19 am - Abith K Sunil (Chackochi): <Media omitted>
+06/06/23, 9:23 am - Abith K Sunil (Chackochi): <Media omitted>
+06/06/23, 8:12 pm - Abith K Sunil (Chackochi): <Media omitted>
+06/06/23, 8:12 pm - Abith K Sunil (Chackochi): <Media omitted>
+06/06/23, 8:12 pm - Abith K Sunil (Chackochi): <Media omitted>
+06/06/23, 8:12 pm - Abith K Sunil (Chackochi): <Media omitted>
+06/06/23, 8:12 pm - Abith K Sunil (Chackochi): <Media omitted>
+06/06/23, 8:12 pm - Abith K Sunil (Chackochi): <Media omitted>
+08/06/23, 6:49 am - Abith K Sunil (Chackochi): <Media omitted>
+08/06/23, 8:01 am - Abith K Sunil (Chackochi): <Media omitted>
+09/06/23, 12:54 am - Abith K Sunil (Chackochi): Novena Appreciation Speech
+
+
+User
+Write a thanks giving speech for  Thanking people who came for novena days on behalf of  Fr Wilfred Fernandes
+
+ChatGPT
+Ladies and gentlemen,
+
+Good evening! Today, I stand before you with a heart brimming with gratitude and joy as I extend my deepest appreciation to each and every one of you who have graced us with your presence during the novena days. On behalf of Father Wilfred Fernandes and our entire community, I want to express our sincerest thanks for your unwavering support and devout participation in this sacred time of prayer and reflection.
+
+The novena days hold immense significance in our spiritual journey. They are a time of heightened devotion, a period of intense introspection, and an opportunity to strengthen our faith. And you, dear friends, have made this time even more meaningful by your presence and active involvement.
+
+Your commitment to attending the novena days, day after day, demonstrates not only your devotion but also your genuine love for our community and the teachings we hold dear. Your presence has been a source of inspiration and encouragement for all of us. Each prayer recited, each hymn sung, and each reflection shared has been enriched by your faith-filled presence.
+
+The novena days have always been a time of unity, where we come together as a community, setting aside our differences and focusing on our shared spiritual journey. Through your participation, you have exemplified the true essence of community and the strength that lies in our togetherness.
+
+I would also like to extend a special word of gratitude to Father Wilfred Fernandes, whose unwavering dedication and guidance have led us through this beautiful novena. His profound sermons and heartfelt prayers have touched our souls and uplifted our spirits. Father Fernandes, we are grateful for your spiritual leadership and for nurturing our faith through your words and actions.
+
+Furthermore, I would be remiss if I did not express our thanks to the countless individuals who have worked tirelessly behind the scenes to ensure the success of the novena days. To the volunteers, the choir members, the organizers, and all those involved in making this event a reality, your selfless contributions have not gone unnoticed. Your commitment and passion have made these novena days a memorable experience for us all.
+
+As we conclude this novena, let us carry the spirit of thanksgiving beyond these walls and into our daily lives. Let us be grateful for the blessings we have received, and let us extend kindness, compassion, and love to those around us. May the lessons learned and the connections forged during these novena days continue to guide us on our spiritual path.
+
+Once again, on behalf of Father Wilfred Fernandes and our entire community, I extend my heartfelt thanks to each and every one of you for your presence, prayers, and unwavering support during these novena days. May God bless you abundantly, and may we continue to grow together in faith and love.
+
+Thank you, and happy Thanksgiving!
+
+
+
+
+
+Send a message.
+09/06/23, 12:55 am - Abith K Sunil (Chackochi): Good evening! Today, I stand before you with a heart brimming with gratitude and joy as I extend my deepest appreciation to each and every one of you who have graced us with your presence during the novena days. On behalf of Father Wilfred Fernandes and our entire community, I want to express our sincerest thanks for your unwavering support and devout participation in this sacred time of prayer and reflection.
+
+The novena days hold immense significance in our spiritual journey. They are a time of heightened devotion, a period of intense introspection, and an opportunity to strengthen our faith. And you, dear friends, have made this time even more meaningful by your presence and active involvement.
+
+Your commitment to attending the novena days, day after day, demonstrates not only your devotion but also your genuine love for our community and the teachings we hold dear. Your presence has been a source of inspiration and encouragement for all of us. Each prayer recited, each hymn sung, and each reflection shared has been enriched by your faith-filled presence.
+
+The novena days have always been a time of unity, where we come together as a community, setting aside our differences and focusing on our shared spiritual journey. Through your participation, you have exemplified the true essence of community and the strength that lies in our togetherness.
+
+I would also like to extend a special word of gratitude to Father Wilfred Fernandes, whose unwavering dedication and guidance have led us through this beautiful novena. His profound sermons and heartfelt prayers have touched our souls and uplifted our spirits. Father Fernandes, we are grateful for your spiritual leadership and for nurturing our faith through your words and actions.
+
+Furthermore, I would be remiss if I did not express our thanks to the countless individuals who have worked tirelessly behind the scenes to ensure the success of the novena days. To the volunteers, the choir members, the organizers, and all those involved in making this event a reality, your selfless contributions have not gone unnoticed. Your commitment and passion have made these novena days a memorable experience for us all.
+
+As we conclude this novena, let us carry the spirit of thanksgiving beyond these walls and into our daily lives. Let us be grateful for the blessings we have received, and let us extend kindness, compassion, and love to those around us. May the lessons learned and the connections forged during these novena days continue to guide us on our spiritual path.
+
+Once again, on behalf of Father Wilfred Fernandes and our entire community, I extend my heartfelt thanks to each and every one of you for your presence, prayers, and unwavering support during these novena days. May God bless you abundantly, and may we continue to grow together in faith and love.
+
+Thank you
+09/06/23, 7:57 am - Abith K Sunil (Chackochi): Artificial Intelligence (AI)
+Deep Learning
+Neural Networks
+Machine Learning
+Reinforcement Learning
+Natural Language Processing (NLP)
+Computer Vision
+Convolutional Neural Networks (CNN)
+Recurrent Neural Networks (RNN)
+Long Short-Term Memory (LSTM)
+Generative Adversarial Networks (GAN)
+Autoencoders
+Transfer Learning
+Unsupervised Learning
+Supervised Learning
+Semi-supervised Learning
+Active Learning
+Batch Normalization
+Dropout
+Optimization Algorithms (e.g., Adam, RMSprop)
+Gradient Descent
+Backpropagation
+Overfitting
+Underfitting
+Bias-Variance Tradeoff
+Regularization
+Activation Functions (e.g., ReLU, Sigmoid, Tanh)
+Loss Functions (e.g., Cross-Entropy, Mean Squared Error)
+Hyperparameters
+Learning Rate
+Epochs
+Data Augmentation
+Image Segmentation
+Object Detection
+Speech Recognition
+Sentiment Analysis
+Recommender Systems
+Time Series Forecasting
+Anomaly Detection
+Face Recognition
+Self-Organizing Maps (SOM)
+Deep Reinforcement Learning
+Attention Mechanisms
+Capsule Networks
+Quantum Neural Networks
+Explainable AI
+Neuroevolution
+Swarm Intelligence
+Federated Learning
+Brain-Computer Interfaces (BCI)
+09/06/23, 8:33 am - Abith K Sunil (Chackochi): Memory:
+hippocampus.
+Chip:
+Nuralink. 
+
+Language.:)
+Natural Language Processing (NLP)
+Long Short-Term Memory (LSTM):
+Convolutional Neural Networks (CNN)
+Speech Recognition
+Translation 
+
+
+Neuralink: )
+
+
+Brain computer interface 
+
+Signal Processing Algorithms
+Classification Algorithms
+Decoding Algorithms
+Adaptive Learning Algorithms:
+
+Federated learning 
+
+Epoch: learning in one cycle
+
+
+Facial reg: )
+
+Support Vector Machines (SVM): SVM is a popular algorithm for classification tasks, including
+emotion recognition. It can effectively separate different emotional states based on input features
+extracted from physiological signals or facial expressions.
+Artificial Neural Networks (ANN): ANNs, particularly deep learning architectures such as
+Convolutional Neural Networks (CNN) or Recurrent Neural Networks (RNN), can learn
+complex patterns and relationships in emotion data. They are suitable for tasks like facial
+expression analysis or physiological signal processing.
+Random Forest: Random Forest is an ensemble learning algorithm that combines multiple
+decision trees to make predictions. It can be utilized for emotion classification, leveraging
+features extracted from sensors to classify emotions accurately.
+K-Nearest Neighbors (KNN): KNN is a simple yet effective algorithm for classification. It can
+be employed to determine the emotional state based on similarity measures between the input
+data and labeled training samples.
+
+Emotion:)
+Support Vector Machines (SVM)
+· Decision Trees
+· Ensemble Methods
+· Convolutional Neural Networks (CNN)
+
+Map:
+Convolutional neural network
+2. Pooling layers
+3. Dropout
+4. Batch normalization
+5. Data augmentation
+6. Pretrained models
+09/06/23, 9:46 am - Abith K Sunil (Chackochi): Pooling layers are a type of layer in neural networks that downsample the input by summarizing regions of the input. This is typically done to reduce the dimensionality of the input and to create invariance to small translations or rotations in the input.
+09/06/23, 10:00 am - Abith K Sunil (Chackochi): Dropout is a regularization technique used in CNNs to prevent overfitting. It randomly drops out (sets to zero) a certain percentage of neurons during each training iteration, forcing the network to learn more robust features and reducing its reliance on any one particular neuron.
+09/06/23, 10:01 am - Abith K Sunil (Chackochi): Batch normalization is a technique used in machine learning and deep learning to improve the performance and stability of neural networks. It normalizes the inputs of each layer by subtracting the batch mean and dividing by the batch standard deviation.
+09/06/23, 10:01 am - Abith K Sunil (Chackochi): Data augmentation is a technique used in machine learning to increase the size and diversity of a training dataset by generating new variations of existing data through transformations such as rotation, scaling, flipping, and cropping.
+09/06/23, 10:02 am - Abith K Sunil (Chackochi): Pretrained models are machine learning models that have already been trained on large datasets and can be used as a starting point for training new models. These models are often trained on massive datasets, such as ImageNet, and can be used for tasks such as object recognition, natural language processing, and speech recognition.
+11/06/23, 12:47 pm - Abith K Sunil (Chackochi): <Media omitted>
+12/06/23, 10:39 am - Abith K Sunil (Chackochi): <Media omitted>
+13/06/23, 1:22 pm - Abith K Sunil (Chackochi): Dear Student ,
+
+The supplementary examination Classroom for the ODD Semester is 2221 & 2222, Mangement Block.
+
+Students with queries relating to the supplementary examinations kindly visit the office.
+
+Regards 
+Office of Examinations 
+Pune Lavasa Campus
+14/06/23, 10:14 am - Abith K Sunil (Chackochi): https://doi.org/10.1038/nature14539
+14/06/23, 10:16 am - Abith K Sunil (Chackochi): LeCun, Y., Bengio, Y. & Hinton, G. Deep learning. Nature 521, 436–444 (2015). https://doi.org/10.1038/nature14539
+14/06/23, 12:15 pm - Abith K Sunil (Chackochi): Transfer learning and fine-tuning pre-trained models have proven effective when labeled data is limited
+14/06/23, 12:16 pm - Abith K Sunil (Chackochi): Unsupervised learning methods, like DBNs and autoencoders, can pre-train deep neural networks and improve their performance.
+14/06/23, 2:09 pm - Abith K Sunil (Chackochi): https://www.youtube.com/watch?v=3oJxdvDerus&t=83s
+14/06/23, 3:46 pm - Abith K Sunil (Chackochi): <Media omitted>
+14/06/23, 8:36 pm - Abith K Sunil (Chackochi): Hello team! We will be having our first Team Circle Meeting today at 8:45PM IST. So bring your snacks and drinks, and lets all meet up for a short interactive session. Time: 8:45PM IST Date: 14th June 2023 Link: meet.google.com/xgi-ydav-vft Thank you Regards Jaya Krishna & madhesh3110 (Guest)
+14/06/23, 9:04 pm - Abith K Sunil (Chackochi): https://docs.google.com/document/d/1rLJOAsn-ZKkkORP9kHWZEZIBNR2AfBW0/edit?usp=sharing&ouid=111361375227784200001&rtpof=true&sd=true
+15/06/23, 8:20 pm - Abith K Sunil (Chackochi): Group 4 - Project Management Meeting Thursday, June 15 · 8:00 – 9:00am Time zone: America/Phoenix Google Meet joining info Video call link: https://meet.google.com/cpv-siya-zui
+15/06/23, 9:32 pm - Abith K Sunil (Chackochi): https://meet.google.com/mnp-rsky-sis
+15/06/23, 9:39 pm - Abith K Sunil (Chackochi): https://docs.google.com/document/d/1LQwwsiS1tYLTbUtjHDnnrYwkHbgZEUMiuUF49r2dAlI/edit?usp=sharing
+15/06/23, 9:44 pm - Abith K Sunil (Chackochi): Hi Everyone, This is a template you can follow for the Minutes of the Meeting after having a General Meeting or a Team Circle Meeting. #Template Hi, Meeting Note - General Meeting/Team Circle Meeting #29/05/2023 - 01:00 PM IST ~Discussed about the recording of the PPT presentation ~And each member slide show and overview of the content. ~Resources - Links to your documents / resources if used. ~Participants in the meeting : Names of the participants Regards, Your name.
+15/06/23, 10:05 pm - Abith K Sunil (Chackochi): Minutes of meeting 
+
+15/06/2023 - 08:30 PM IST to 9.30 PM and  8.00 AM to 9.00 AM CST 
+
+During the project team meeting, we conducted a detailed review of Assignment 1, and subsequently, we delegated specific tasks to each team member according to their designated role. The meeting was marked by extensive deliberation on the project ideas, fostering a comprehensive exploration of potential avenues. We actively engaged in an interactive session, encouraging open dialogue and facilitating the exchange of perspectives. Furthermore, we engaged in a thorough discussion concerning the project's methodology and approach, ensuring a coherent and well-defined path for its implementation. The meeting concluded on a positive note, with a palpable sense of enthusiasm and a clearly articulated plan to successfully execute the project.
+
+
+Resources -
+ Project Ideas.
+https://docs.google.com/document/d/1LQwwsiS1tYLTbUtjHDnnrYwkHbgZEUMiuUF49r2dAlI/edit?usp=sharing
+
+Roles and Task 👍
+https://docs.google.com/document/d/10uhWGzsqmPCEWQ3r61LItDagsk-EuQFQseQfXllcQhM/edit?usp=sharing
+
+
+
+~Participants in the meeting:
+
+Amelia H
+Kumari Preethi Akula
+Maleka Matcheswala
+Mounika Bhuvana 
+Padala Sreeija
+Prosper Nzekwe
+Raj Patil 
+Sai Rithwik
+Saron Nigussie
+Ayushi Pathak
+
+
+ 
+ Regards, 
+
+Abith. K . Sunil
+17/06/23, 3:16 pm - Abith K Sunil (Chackochi): https://docs.google.com/document/d/1OEAmep0eKjC-aig7RHJSDWWADGtSjINIAWCfwJbePlM/edit
+17/06/23, 3:53 pm - Abith K Sunil (Chackochi): https://docs.google.com/document/d/1YFniB0NBkmFYwHPZMU2R0ofSMZW5n8JqIuQueCqZrbo/edit?usp=sharing
+21/06/23, 8:06 am - Abith K Sunil (Chackochi): <Media omitted>
+21/06/23, 10:21 pm - Abith K Sunil (Chackochi): https://www.filemail.com/d/wygobjxlewmnsqx?fbclid=PAAaaq_vA7VHGlM2O8hI1_qbEFt5nOHqm4ezSUNmseRjIof-TRrsS29-ZQvUY
+22/06/23, 7:32 pm - Abith K Sunil (Chackochi): profile picture
+Name 
+Roll no
+Year  option
+Department 
+
+10 question.  Doing research. 
+
+Wanted to go to abroad University, high mnc , wanted to show team Work.
+Guide from the corporate. 
+Join the research cell.
+Wanted to show talent in conference paper 
+Are u ready to work.
+Invest more time 
+
+Wanted to publish paper in conference spingwr and IEEE
+
+Wanted to publish book chapter,  Jeronal,
+Research analytical tool.
+ Collaborative research or individual 
+
+10 question. 
+
+
+
+
+If yes . (We will be having monthly 2 times meeting) is mandatory. 
+
+Can u make google form for me with this details 
+View other drafts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sure, here is a Google Forms that you can use:
+
+Google Form for Research Cell
+
+Name
+
+Roll No.
+
+Year
+
+Department
+
+1. Do you want to go to an abroad university, high MNC, show team work, guide from corporate, join research cell, show talent in conference paper?
+
+Yes
+No
+2. Are you ready to work and invest more time?
+
+Yes
+No
+3. Do you want to publish paper in conference (Springer and IEEE)?
+
+Yes
+No
+4. Do you want to publish book chapter, journal, research analytical tool?
+
+Yes
+No
+5. Do you want to do collaborative research or individual research?
+
+Collaborative
+Individual
+6. If yes, we will be having monthly 2 times meeting. Is that okay with you?
+
+Yes
+No
+7. What are your research interests?
+
+Please specify.
+8. What are your goals for research?
+
+Please specify.
+9. What are your strengths and weaknesses as a researcher?
+
+Please specify.
+10. What are your expectations from the research cell?
+
+Please specify.
+Thank you for your time!
+
+I hope this helps!
+24/06/23, 2:57 pm - Abith K Sunil (Chackochi): https://ml.azure.com/runs/114e83db-0fb1-4093-8cb1-840abf22fb3e?tid=2078f048-ada8-418b-9e2c-f85b2732a279&wsid=%2Fsubscriptions%2F1d2efd60-a9d1-4ec5-a3a4-8695beef84f4%2Fresourcegroups%2FRG-ML%2Fproviders%2FMicrosoft.MachineLearningServices%2Fworkspaces%2FMachineLearning#/?graphId=8fed6da9-f8e9-4f23-aca4-e4dd376738ff&label=Pipeline-Created-on-06-24-2023&newGraphId=8fed6da9-f8e9-4f23-aca4-e4dd376738ff&path=%2Fruns%2F114e83db-0fb1-4093-8cb1-840abf22fb3e&runId=114e83db-0fb1-4093-8cb1-840abf22fb3e
+25/06/23, 10:04 am - Abith K Sunil (Chackochi): This is the Invite Link for Gantt Chart Application : https://b24-7bbarx.bitrix24.com/?secret=c1tpx4lc Also, the below link is for the RACI Matrix template so that we all can work on both the files. https://1drv.ms/x/s!AuKFqGdpYzIyghx3f68iKoGMGt-r
+25/06/23, 11:31 pm - Abith K Sunil (Chackochi): https://b24-7bbarx.bitrix24.com/?secret=c1tpx4lc
+25/06/23, 11:32 pm - Abith K Sunil (Chackochi): https://1drv.ms/x/s!AuKFqGdpYzIygh4tFbEvi_h6EJMB
+27/06/23, 2:33 pm - Abith K Sunil (Chackochi): <Media omitted>
+27/06/23, 2:48 pm - Abith K Sunil (Chackochi): <Media omitted>
+28/06/23, 2:28 pm - Abith K Sunil (Chackochi): Narpath 
+Abhik
+Kausthav
+29/06/23, 8:31 am - Abith K Sunil (Chackochi): Pooshan
+29/06/23, 8:31 am - Abith K Sunil (Chackochi): Satyajit pandey
+29/06/23, 8:32 am - Abith K Sunil (Chackochi): Narpat , Satyajit: SIB
+29/06/23, 1:53 pm - Abith K Sunil (Chackochi): <Media omitted>
+29/06/23, 1:53 pm - Abith K Sunil (Chackochi): <Media omitted>
+30/06/23, 12:17 pm - Abith K Sunil (Chackochi): <Media omitted>
