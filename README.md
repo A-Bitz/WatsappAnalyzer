@@ -151,16 +151,4 @@ Describe how the script identify and classify the chat
 - Scroll down to find "Export Chat" menu
 - Choose "Without Media"
 
-## Other Tech Port
-----------------------
-- Web: Coming soon
-- Jupyter Notebook: Coming soon
-- NodeJS: Coming soon
 
-### Help Needed
-----------------------
-- Need contributor to rearrange directory structure to match python best practice.
-- iOS exported example needed 
-
-#### Buy me a coffee
-<a href="https://www.buymeacoffee.com/PetengDedet" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 22px !important;" ></a>
