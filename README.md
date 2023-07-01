@@ -1,3 +1,5 @@
+# WHATSApp Analyzer
+
 A WhatsApp analyzer in ML is a program that uses machine learning techniques to analyze and extract insights from WhatsApp conversations. The analyzer is typically implemented using a Python programming language and leverages various libraries and tools for natural language processing (NLP) and machine learning.
 
 The main steps involved in building a WhatsApp analyzer in ML include:
