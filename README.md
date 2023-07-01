@@ -19,18 +19,7 @@ The script reads an exported WhatsApp chat and then extracts the data. You may n
 ### Preview
 ----------------------
 ![Screenshot 2023-07-01 121651](https://github.com/A-Bitz/WatsappAnalyzer/assets/118044372/a8362a88-d018-4ece-9d21-2abbc239579f)
-- Domain rank
-![Domain rank](https://i.imgur.com/jASt34p.png)
-- Word Rank
-![Word rank](https://i.imgur.com/NmfWGSa.png)
-- Most used word by sender
-![Most used word by sender](https://i.imgur.com/GdtzLFy.png)
-- Emoji rank
-![Emoji rank](https://i.imgur.com/PqCVcej.png)
-- Most used emoji by sender
-![Most used emoji by sender](https://i.imgur.com/DauFsMx.png)
-- Chat activity heatmap
-![Heatmap](https://i.imgur.com/6KyNJF2.png)
+![Screenshot 2023-07-01 121735](https://github.com/A-Bitz/WatsappAnalyzer/assets/118044372/05a05e88-bc82-413b-8be1-c8ebbfde1b9c)
 
 ### Requirements
 ----------------------
