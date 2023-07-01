@@ -18,8 +18,7 @@ The script reads an exported WhatsApp chat and then extracts the data. You may n
 
 ### Preview
 ----------------------
-- Sender Rank
-![Sender rank](https://i.imgur.com/5MnQRhV.png)
+![Screenshot 2023-07-01 121651](https://github.com/A-Bitz/WatsappAnalyzer/assets/118044372/a8362a88-d018-4ece-9d21-2abbc239579f)
 - Domain rank
 ![Domain rank](https://i.imgur.com/jASt34p.png)
 - Word Rank
